@@ -1,0 +1,16 @@
+Finding the labeled traffic incident datasets by merging Waze and Wavetronix.
+
+Problem statement:
+So far, we already collected large amount of traffic data including Wavetronix, however, they are all unlabeled. 
+By merging Waze and Wavetronix data together, one can have a labeled traffic characteristic dataset.
+
+
+Data Description:
+Waze data from 2016/09~now
+Data collection rate: every 5 mins
+XML format: 21 GB
+JSON format: 10 GB
+
+Wavetronix raw XML data from 2016/09 ~ now
+Data collection rate: every 20 seconds
+XML format: 500 GB
